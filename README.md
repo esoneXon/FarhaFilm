@@ -6,4 +6,4 @@ This Film About Girls in Palestine
 
 # Link Subtitle
 <a href="https://raw.githubusercontent.com/esoneXon/FarhaFilm/main/Farha.2021.720p.WEBRip.x264.AAC-%20hqcinemas.com-English.en.id%20(1).srt">Indonesia</a> OR 
-<a href="https://raw.githubusercontent.com/esoneXon/FarhaFilm/main/Farha.2021.720p.WEBRip.x264.AAC-%20hqcinemas.com-English.en.id%20(1).srt">English</a>
+<a href="https://raw.githubusercontent.com/esoneXon/FarhaFilm/main/Farha.2021.720p.WEBRip.x264.AAC-%20hqcinemas.com-English.srt">English</a>
